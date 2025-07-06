@@ -3,17 +3,18 @@
 
 ## 📂 Project Structure
 SDW_HTM_code/
-├── Dataset/ # Directory for raw datasets (not included)
-│ ├── Cambridge_Hand_Gesture/
-│ ├── KTH/
-│ ├── MHAD/
-│ ├── Northwestern_Hand_Gesture/
-│ └── UT-Kinect/
-├── source/ # Core algorithm implementations (e.g., model definition, training functions)
-├── stm_feature_make/ # Scripts for feature extraction and preprocessing (e.g., STM features)
-├── outputdata/ # Model output results (e.g., predictions, evaluation metrics)
-├── main.py # Main program entry point
-└── README.md # Project description and usage instructions
+├── Dataset/                  # Directory for raw datasets (not included)
+│   ├── Cambridge_Hand_Gesture/
+│   ├── KTH/
+│   ├── MHAD/
+│   ├── Northwestern_Hand_Gesture/
+│   └── UT-Kinect/
+├── source/                   # Core algorithm implementations (e.g., model definition, training functions)
+├── stm_feature_make/         # Scripts for feature extraction and preprocessing (e.g., STM features)
+├── outputdata/               # Model output results (e.g., predictions, evaluation metrics)
+├── main.py                   # Main program entry point
+└── README.md                 # Project description and usage instructions
+
 
 
 ## 📥 Dataset Download
