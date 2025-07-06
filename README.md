@@ -35,11 +35,10 @@ Please manually download the following publicly available datasets and place the
 
 1. Open MATLAB and set the working directory to the root of the project:
 2. Make sure all required datasets are correctly placed.
-3. Run the main script:
+3. Run the main script.
+4. Results (accuracy, predictions) will be saved in the outputdata/ folder.
 ```matlab
 >> main
-4. Results (accuracy, predictions) will be saved in the outputdata/ folder.
-
 
 ### Requirements
 
